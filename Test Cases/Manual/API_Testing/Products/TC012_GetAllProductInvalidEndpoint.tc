@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012_GetAllProductInvalidEndpoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6f3944e-6b08-41ab-8672-1da0098f804c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC010_GetProdcutByInvalidID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f274457-2442-4a8b-958e-8a968ce28316</testCaseGuid>
+</TestCaseEntity>

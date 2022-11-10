@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC008_AddProductWithBlankPrice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bb5c031-94f2-45d6-b329-c350c2e8bd8f</testCaseGuid>
+</TestCaseEntity>

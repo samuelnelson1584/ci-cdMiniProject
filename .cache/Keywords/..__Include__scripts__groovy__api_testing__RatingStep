@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A096F0B24FE82F12E18790AB78B4C70D",
+  "keywordClasses": [
+    {
+      "name": "api_testing.RatingStep",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

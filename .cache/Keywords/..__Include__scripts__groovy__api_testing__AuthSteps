@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2A0F59616E89E31978E9EA5D4BFBB696",
+  "keywordClasses": [
+    {
+      "name": "api_testing.AuthSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F85E2DF234BB04D981A035602B67A4DA",
+  "keywordClasses": [
+    {
+      "name": "api_testing.CommentSteps",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

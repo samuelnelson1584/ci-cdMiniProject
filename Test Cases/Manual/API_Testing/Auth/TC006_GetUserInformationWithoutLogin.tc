@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_GetUserInformationWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed4786e2-db86-4985-ba4e-0874ecc52935</testCaseGuid>
+</TestCaseEntity>
